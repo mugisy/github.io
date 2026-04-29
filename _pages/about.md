@@ -25,23 +25,35 @@ Before starting my PhD, I worked at PolyU as a research assistant on projects, i
 
 # 🔥 News
 - *2026.04*: &nbsp;🎉🎉 I have passed my PhD Confirmation Examination with a strong approval from the Board of Examiners and my supervisor. 
-- *2026.04*: &nbsp;🚀🚀 We will be presenting our paper Computer Vision for Automated Sidewalk Pavement Condition Assessment Using Street View Imagery at the [CSCE Quebec 2026](https://www.csce2026quebec.ca/). See you in June! 
+- *2026.04*: &nbsp;🚀🚀 I will be presenting our paper Computer Vision for Automated Sidewalk Pavement Condition Assessment Using Street View Imagery at the [2026 CSCE Annual Conference](https://www.csce2026quebec.ca/) in Quebec City. See you in June! 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="80%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Deep learning-based rebar detection for automated evaluation of concrete bridge decks using ground penetrating radar. Engineering Applications of Artificial Intelligence, 165, 113459](https://doi.org/10.1016/j.engappai.2025.113459)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Faris, N., **Yussif, A. M.**, Zayed, T., Fares, A., & Abdelkader, E. M.
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
-</div>
+</div> -->
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- Dompey A. M. A., **Yussif A.-M.**, Dai A, Zayed T (2026). [Productivity assessment of assembly robots for prefabricated construction: trends and performance factors](https://doi.org/10.1108/CI-06-2025-0264). Construction Innovation: Information Process Management, *In press*.  
+- Faris, N., **Yussif, A.-M.**, Zayed, T., Fares, A., & Abdelkader, E. M. (2026). [Deep learning-based rebar detection for automated evaluation of concrete bridge decks using ground penetrating radar](https://doi.org/10.1016/j.engappai.2025.113459). Engineering Applications of Artificial Intelligence, *165*, 113459.  
+-  **Yussif, A.-M.**, Taiwo, R., Zayed, T., Mohandes, S. R., & Abdulai, S. F. (2025). [Enhancing sustainable urban mobility: Computer vision applications in pedestrian path studies](https://doi.org/10.1016/j.jtte.2024.11.007). Journal of Traffic and Transportation
+Engineering (English Edition), *12*(5), 1415-1451.  
+- **Yussif, A.-M.**, Taiwo, R., Sakor, P., Han, T., Mohandes, S. R., Afari, M. A., ... & Shah, M. A. (2025). [A Comprehensive Literature Review on Risk Identification and Assessment in Green Building Construction Projects](https://doi.org/10.1016/j.clet.2025.101089). Cleaner Engineering and Technology, *29*, 101089.  
+- Taiwo, R., **Yussif, A.-M.**, & Zayed, T. (2025). [Making waves: Generative artificial intelligence in water distribution networks: Opportunities and challenges](https://doi.org/10.1016/j.wroa.2025.100316). Water Research X, *28*, 100316.  
+- **Yussif, A.-M.**, Zayed, T., Taiwo, R., & Fares, A. (2024). [Promoting sustainable urban mobility via automated sidewalk defect detection](https://doi.org/10.1002/sd.2999). Sustainable Development, *32*(5), 5861-5881.  
+- Zhang, R., **Yussif, A.-M.**, Tijani, I., Fares, A., Tariq, S., & Zayed, T. (2024). [Acoustic localization approach for urban water distribution networks using machine learning method](https://doi.org/10.1016/j.engappai.2024.109062). Engineering Applications of Artificial
+Intelligence, *137*, 109062. 
+- Taiwo, R., **Yussif, A.-M.**, Adegoke, A. H., & Zayed, T. (2024). [Prediction and deployment of compressive strength of high-performance concrete using ensemble learning techniques](https://doi.org/10.1016/j.conbuildmat.2024.138808). Construction and Building Materials, *451*, 138808. 
+- Taiwo, R., **Yussif, A.-M.**, Ben Seghier, M. E. A., & Zayed, T. (2024). [Explainable Ensemble Models for Predicting Wall Thickness Loss of Water Pipes](https://doi.org/10.1016/j.asej.2024.102630). Ain Shams Engineering Journal, *15*(4), 102630.  
+- **Yussif, A.-M.**, Sadeghi, H., & Zayed, T. (2023). [Application of Machine Learning for Leak Localization in Water Supply Networks](https://doi.org/10.3390/buildings13040849). Buildings, *13*(4), 849. 
+
 
 # 🎖 Honors and Awards
 
@@ -78,6 +90,8 @@ Before starting my PhD, I worked at PolyU as a research assistant on projects, i
 # 💬 Conferences and Invited Talks
 - *2025.05.22*, **Presenter: Online**, [CIB World Building Congress 2025](https://wbc2025.cibworld.org/) on [Sidewalk Pavement Defect Detection with Instance Segmentation: A Step Towards Improving Sidewalk Quality](https://doi.org/10.7771/3067-4883.1516). Purdue, USA. *Virtual Session 26.*
 - *2024.02.29*, **Speaker: Online**, The 24th Scientific Seminar of the Group Mechanics and Construction, Van Lang University (Vietnam). Topic: A Novel Framework for Automatic Sidewalk Defect Monitoring with Object Detection and Instance Segmentation. 
+
+# Work Experience
 
 # 💡 Activities
 - *2024.02.29*, **Speaker: Online**, The 24th Scientific Seminar of the Group Mechanics and Construction, Van Lang University (Vietnam). Topic: A Novel Framework for Automatic Sidewalk Defect Monitoring with Object Detection and Instance Segmentation. 
